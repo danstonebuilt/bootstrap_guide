@@ -1,0 +1,43 @@
+.head-back-color {
+	background-color: #2F4F4F;
+}
+
+.cont-back-color {
+	background-color: #FF0000;
+}
+
+.row1-back-color {
+	background-color: #FFA500;
+}
+
+.row2-back-color {
+	background-color: #FFDAB9;
+}
+
+.row3-back-color {
+	background-color: #87CEEB;
+}
+
+
+.col1-atr, .col2-atr, .col3-atr {
+	margim: 0;
+	padding: 0;
+	height: 720px;
+}
+
+
+.col1-atr {
+background-color: #008000;
+}
+
+.col2-atr {
+background-color: #FFFFFF;
+}
+
+.col3-atr {
+background-color: #FF0000;
+}
+
+.footer-collor {
+	background-color: #000000;
+}
